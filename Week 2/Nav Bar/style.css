@@ -1,0 +1,22 @@
+@media only screen and (min-width: 768px){}
+    
+
+div{
+    width: auto;
+    height: 50px;
+}
+
+h2{
+    align-content: center ;
+    display: inline-block;
+    text-align: center;
+}
+img{
+    align-content: content;
+    height: 30px;
+    width: 30px;
+}
+@media only screen and (max-width: 767px){
+
+}
+    
